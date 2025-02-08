@@ -7,3 +7,6 @@ def hello_world():
 ````
 # This is 2nd error
 ## **License**
+```php
+    Class::function($param);
+```
